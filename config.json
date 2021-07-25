@@ -1,74 +1,23 @@
 {
-  "season": 23,
-  "guideurl": "https://docs.google.com/document/d/1ZU0b857zl8lC34QuHfgkPnWpWR7o0nhcC2n_Xs_pghY/edit?usp=sharing",
+  "siesta": true,
   "votetypes": [
     {
-      "label": "Team Roamless Crate",
-      "value": 0.35,
-      "min": 0.12,
-      "max": 1.5,
+      "label": "VOTING",
+      "value": 0.34,
       "includeInTotal": true,
-      "type": "blessing",
-      "order": -1
+      "type": "other"
     },
     {
-      "label": "Season 24: Enhance",
-      "value": 0.2,
+      "label": "GUIDE",
+      "value": 0.33,
       "includeInTotal": true,
-      "type": "blessing",
-      "order": 24
+      "type": "other"
     },
     {
-      "label": "Season 1: Booster Pack",
-      "value": 0.12,
+      "label": "SATURDAY",
+      "value": 0.33,
       "includeInTotal": true,
-      "type": "blessing",
-      "order": 1
-    },
-    {
-      "label": "Season 4: Precognition",
-      "value": 0.08,
-      "includeInTotal": true,
-      "type": "blessing",
-      "order": 4
-    },
-    {
-      "label": "Season 19: Underhanded",
-      "value": 0.08,
-      "includeInTotal": true,
-      "type": "blessing",
-      "order": 19
-    },
-    {
-      "label": "Season 12: Uncle Indemnity",
-      "value": 0.04,
-      "includeInTotal": true,
-      "type": "blessing",
-      "order": 12
-    },
-    {
-      "label": "Season 13: Hitting Flotation Bubble",
-      "value": 0.04,
-      "includeInTotal": true,
-      "type": "blessing",
-      "order": 13
-    },
-    {
-      "label": "WIMDY!",
-      "value": 0.09,
-      "includeInTotal": true,
-      "type": "wimdy",
-      "order": 100
+      "type": "other"
     }
-  ],
-  "wimdys": [
-    "Season 2: Literal Arm Cannon",
-    "Season 5: Fireproof Jacket",
-    "Season 7: Iffey Jr.",
-    "Season 10: Divisional Walk in the Park",
-    "Season 14: Targeted Evolution",
-    "Season 15: Afterparty",
-    "Season 16: Skate Board",
-    "Season 18: Cape of Containment"
   ]
 }

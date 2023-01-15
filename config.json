@@ -1,80 +1,23 @@
 {
-  "season": 1,
-  "guideurl": "https://at.tumblr.com/nymills/trending-blessings-that-are-good-new-team-boost/l0j8hp54bgkj",
+  "siesta": true,
   "votetypes": [
     {
-      "label": "NEW Team Boost",
-      "value": 0.1,
-      "type": "blessing",
-      "order": 1
-    },
-    {
-      "label": "NEW Batting Boost",
-      "value": 0.1,
-      "type": "blessing",
-      "order": 2
-    },
-    {
-      "label": "NEW Pitching Boost",
-      "value": 0.1,
-      "type": "blessing",
-      "order": 3
-    },
-    {
-      "label": "NEW Max Out Pitcher",
-      "value": 0.1,
-      "type": "blessing",
-      "order": 4
-    },
-    {
-      "label": "NEW Max Out Batter",
-      "value": 0.1,
-      "type": "blessing",
-      "order": 5
-    },
-    {
-      "label": "NEW Steal Best Pitcher",
-      "value": 0.1,
+      "label": "VOTING",
+      "value": 0.34,
       "includeInTotal": true,
-      "type": "blessing",
-      "order": 6
+      "type": "other"
     },
     {
-      "label": "NEW Steal Best Batter",
-      "value": 0.1,
-      "type": "blessing",
-      "order": 7
+      "label": "GUIDE",
+      "value": 0.33,
+      "includeInTotal": true,
+      "type": "other"
     },
     {
-      "label": "Guess Whose Thwack",
-      "value": 0.1,
-      "type": "blessing",
-      "order": 8
-    },
-    {
-      "label": "Yeet",
-      "value": 0.1,
-      "type": "blessing",
-      "order": 9
-    },
-    {
-      "label": "Muted",
-      "value": 0.09,
-      "type": "wimdy",
-      "order": 100
-    },
-    {
-      "label": "Wind Sprints (WIMDY)",
-      "value": 0.01,
-      "type": "blessing",
-      "order": 101
+      "label": "SATURDAY",
+      "value": 0.33,
+      "includeInTotal": true,
+      "type": "other"
     }
-  ],
-  "wimdys": [
-    "NEW Randomize Players",
-    "Strong Start",
-    "Strike Zero",
-    "Shadow Play",
-    "Shore Up"
   ]
 }

@@ -1,58 +1,23 @@
 {
-  "season": 2,
-  "guideurl": "https://twitter.com/nymillenials/status/1619406063719288832",
+  "siesta": true,
   "votetypes": [
     {
-      "label": "NEW Pitching Boost",
-      "value": 0.22,
-      "type": "blessing",
-      "order": 1
-    },
-    {
-      "label": "NEW Batting Boost",
-      "value": 0.2,
-      "type": "blessing",
-      "order": 2
-    },
-    {
-      "label": "Telekinesis",
-      "value": 0.2,
-      "type": "blessing",
-      "order": 3
-    },
-    {
-      "label": "Yeet",
-      "value": 0.15,
-      "type": "blessing",
-      "order": 4
-    },
-    {
-      "label": "Ball Hawk",
-      "value": 0.12,
+      "label": "VOTING",
+      "value": 0.34,
       "includeInTotal": true,
-      "type": "blessing",
-      "order": 5
+      "type": "other"
     },
     {
-      "label": "Muted",
-      "value": 0.1,
-      "type": "wimdy",
-      "order": 100
+      "label": "GUIDE",
+      "value": 0.33,
+      "includeInTotal": true,
+      "type": "other"
     },
     {
-      "label": "Wind Sprints (WIMDY)",
-      "value": 0.01,
-      "type": "blessing",
-      "order": 101
+      "label": "SATURDAY",
+      "value": 0.33,
+      "includeInTotal": true,
+      "type": "other"
     }
-  ],
-  "wimdys": [
-    "Dark Matter",
-    "Shadow Play",
-    "Strong Start",
-    "Rogue Strike",
-    "Knight Strike",
-    "Mage Strike",
-    "Bard Strike"
   ]
 }
